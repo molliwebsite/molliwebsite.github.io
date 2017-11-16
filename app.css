@@ -1,0 +1,60 @@
+
+ul {
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    
+}
+header{
+    text-align: center;
+    background-size: cover;
+    background: url(Images/flowerpink.jpg);
+    padding: 150px 0px 0px 0px;  
+    color: white  
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 46px;
+    
+}
+h2 {
+    font-family: 'Courgette', cursive;
+}
+body {
+    background-color: rgb(145, 183, 199);
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    
+}
+a {
+    color: white;
+    font-family: 'Itim', cursive;
+}
+.images {
+    border: 5px solid white;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.title {
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+font-size: 56px;
+font-family: 'Merienda One', cursive;
+text-align: center;
+}
+article {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
