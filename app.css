@@ -9,8 +9,7 @@ li {
     
 }
 header{
-    background-size: cover;
-    background: url(Images/flowerpink.jpg);
+    background: url("Images/flowerpink.jpg");
     padding: 150px 0px 0px 0px;  
     color: white;  
 }
