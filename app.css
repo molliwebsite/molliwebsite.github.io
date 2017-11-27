@@ -12,10 +12,7 @@ header {
     background-size: cover;
     background: url("Images/flowerpink2.jpg");
     color: white;  
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+    font-family: 'Merienda One', cursive;
 }
 h1 {
     font-family: 'Oswald', sans-serif;
@@ -30,8 +27,7 @@ body {
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 0px;
-    margin-left: 0px;
-    
+    margin-left: 0px;    
 }
 a {
     color: white;
