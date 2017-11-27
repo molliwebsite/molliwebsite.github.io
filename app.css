@@ -40,15 +40,11 @@ img {
     margin: auto;
 }
 .title {
- text-shadow:
- -1px -1px 0 #000,
- 1px -1px 0 #000,
- -1px 1px 0 #000,
- 1px 1px 0 #000;
-font-size: 56px;
-font-family: 'Merienda One', cursive;
-text-align: center;
-}
+ text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+     font-size: 56px;
+     font-family: 'Merienda One', cursive;
+     text-align: center;
+  }
 article {
     max-width: 500px;
     padding: 20px;
