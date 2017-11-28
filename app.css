@@ -30,8 +30,8 @@ h3 {
 .Future-Title {
 	text-align: center;
 }
-.Future-SubTitles {
-	color: rgb(108, 190, 237);
+.SubTitles {
+	padding-left: 10px;
 }
 body {
     background-color: rgb(145, 183, 199);
