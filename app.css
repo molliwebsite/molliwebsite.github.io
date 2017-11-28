@@ -21,8 +21,7 @@ h1 {
 }
 h2 {
     font-family: 'Courgette', cursive;
-}
-body {
+}body {
     background-color: rgb(145, 183, 199);
     text-align: center;
     margin-top: 0px;
@@ -68,7 +67,7 @@ td, th {
 	text-align: left;
 }
 th {
-	background-color: rgb(189, 147, 1454);
+	background-color: rgb(189, 147, 145);
 	color: white;
 }
 td, tr {
