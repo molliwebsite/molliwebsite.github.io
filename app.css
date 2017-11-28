@@ -1,4 +1,3 @@
-
 .relection {
 	padding: 10px;
 }
@@ -28,6 +27,9 @@ h3 {
 }
 .Future-Title {
 	text-align: center;
+}
+.Future-SubTitle {
+	color: rgb(108, 190, 237);
 }
 body {
     background-color: rgb(145, 183, 199);
