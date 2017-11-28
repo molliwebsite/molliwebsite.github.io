@@ -1,3 +1,4 @@
+
 .relection {
 	padding: 10px;
 }
@@ -39,7 +40,9 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    padding-left: 10px;
+}
+p {
+	padding-left: 10px;
 }
 a {
     color: white;
