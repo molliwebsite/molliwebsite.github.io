@@ -44,6 +44,10 @@ img {
     display: block;
     margin: auto;
 }
+.quote-image {
+	border: 5px solid white;
+	padding: 10px;
+}
 .title {
  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
      font-size: 56px;
